@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+    display: block;
+    margin-top: 40px; 
+}
+
+.aboutC {
+    text-align: center;
+    display: block;
+    font-family: 'Architects Daughter', cursive;
+    font-size: 25px; 
+    margin: 105px; 
+    border: solid black 1px; 
+    border-radius: 1%;
+    padding: 20px; 
+}
+
+img {
+    width: 300px; 
+    margin-left: 550px;}
+    .links {
+        display: block; 
+        text-align: center;
+    }

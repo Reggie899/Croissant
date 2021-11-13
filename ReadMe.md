@@ -1,1 +1,1 @@
-[!] test
+[!NOTE] test
